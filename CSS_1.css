@@ -1,0 +1,26 @@
+body{
+    background-color: #DCDCDC;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+     color: #DCDCDC;
+}
+
+p,label,legend{
+   font-size: 25px;
+   color: #DCDCDC;
+}
+
+div{
+    background-color: #8A2BE2;
+    border-radius: 17px;
+}
+
+img{
+    max-height: 15%;
+    max-width: 15%;
+    height: auto;
+    width: auto;
+}
